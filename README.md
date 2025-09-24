@@ -85,8 +85,8 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png)
-[<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter10.png)
+[<img src="/Certificate%20MD.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/JoSych888/JoSych888/refs/heads/main/Certificate%20MD.png)
+[<img src="/Certificate.png" width="280px" hspace="10px" alt="Базовый курс»">](https://raw.githubusercontent.com/JoSych888/JoSych888/refs/heads/main/Certificate.png)
 
 <br>
 <br>
